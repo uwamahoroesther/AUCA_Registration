@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AUCA_Registration:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a86e3d8e-393e-470a-a890-f073f8cecc8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/StudentAdminServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/TeacherUpdateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Applove.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/AUCA_Registration_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/AUCA_Registration_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/AccademicUnitServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/AccademicUnitServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/AddCourseServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/AddCourseServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/CourceDefServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/CourceDefServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/CourseServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/CourseServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/EAcademicUnitServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/EAcademicUnitServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/SearchCourseServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/SearchCourseServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/SearchStudentServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/SearchStudentServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/SemesterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/SemesterServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/StudentAdServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/StudentAdServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/StudentRegServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/StudentRegServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/TeacherServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/controller/TeacherServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/AccademicUnitDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/AccademicUnitDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/CourceDefDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/CourceDefDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/CourseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/CourseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/SemesterDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/SemesterDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/StudentCourceDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/StudentCourceDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/StudentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/StudentRegistrationDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/StudentRegistrationDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/SystemUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/SystemUserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/TeacherDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/dao/TeacherDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/AccademicUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/AccademicUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/Cource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/Cource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/CourceDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/CourceDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/Semester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/Semester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/StudentCource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/StudentCource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/StudentRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/StudentRegistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/StudentUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/StudentUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/SystemUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/SystemUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/enums/EAccademicUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/enums/EAccademicUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/enums/EQualificatio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/enums/EQualificatio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/enums/ERegistrationStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/model/enums/ERegistrationStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/AccademicUnitService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/AccademicUnitService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/CourceDefService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/CourceDefService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/CourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/SemesterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/SemesterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/StudentCourceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/StudentCourceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/StudentRegService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/StudentRegService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/StudentUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/StudentUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/SystemUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/SystemUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/TeacherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/TeacherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/AccademicUnitInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/AccademicUnitInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/CourceDefInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/CourceDefInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/CourseInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/CourseInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/SemesterInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/SemesterInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/StudentCourceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/StudentCourceInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/StudentInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/StudentInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/StudentRegInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/StudentRegInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/StudentUserInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/StudentUserInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/SystemUserInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/SystemUserInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/TeacherInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rw/ac/auca/service/interfaces/TeacherInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/AccademicUnit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/AccademicUnit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/CourceDef.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/CourceDef.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/CourceDepartmentSemester.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/CourceDepartmentSemester.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/CourcePerStudent.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/CourcePerStudent.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Cources.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Cources.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Dashboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Dashboard.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Report.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Report.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Semester.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Semester.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/StudentAdd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/StudentAdd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/StudentAdmin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/StudentAdmin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/StudentCource.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/StudentCource.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/StudentCourseSemester.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/StudentCourseSemester.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/StudentDash.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/StudentDash.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/StudentDepartmentSemester.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/StudentDepartmentSemester.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/StudentPerSemester.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/StudentPerSemester.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/StudentReg.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/StudentReg.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Teacher.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Teacher.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/Boot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/Boot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/Cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/Cover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/Login_Signup.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/Login_Signup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/Delete.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pages/Delete.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/Footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pages/Footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/NavBar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pages/NavBar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/NavStudent.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pages/NavStudent.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/SubNav.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pages/SubNav.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/updatePages/AccademicUp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/updatePages/AccademicUp.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/updatePages/CourceDefUp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/updatePages/CourceDefUp.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/updatePages/CourceUp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/updatePages/CourceUp.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/updatePages/SemesterUp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/updatePages/SemesterUp.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/updatePages/StudentCourceUp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/updatePages/StudentCourceUp.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/updatePages/StudentRegUp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/updatePages/StudentRegUp.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/updatePages/StudentUp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/updatePages/StudentUp.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/updatePages/TeacherUp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/updatePages/TeacherUp.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2e0move7ToXsXlEwD8CFzNDoIP7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/AMANI/Downloads/AUCA_Registration-main/AUCA_Registration-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.96">
+    <configuration name="TestModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rw.ac.auca.model.TestModel" />
+      <module name="AUCA_Registration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rw.ac.auca.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.96" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.96" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="17" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="AUCA_Registration:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="df15f0da-2558-4dc5-b9d2-a46cc9ebe2cd" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49966" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="AUCA_Registration:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestModel" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.96" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestModel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a86e3d8e-393e-470a-a890-f073f8cecc8e" name="Changes" comment="" />
+      <created>1711050066530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711050066530</updated>
+      <workItem from="1711050068596" duration="1998000" />
+      <workItem from="1711053466920" duration="2334000" />
+      <workItem from="1711090029888" duration="1071000" />
+      <workItem from="1711091176743" duration="701000" />
+      <workItem from="1711091930086" duration="258000" />
+      <workItem from="1711092229981" duration="1709000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

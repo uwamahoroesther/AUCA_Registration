@@ -1,0 +1,31 @@
+header {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.auca-logo {
+    width: 50%;
+    margin-left: 1rem;
+}
+
+header .auca-gishushu {
+    width: 15rem;
+    display: none;
+}
+
+@media screen and (min-width: 560px) {
+    .shadow-wrapper {
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(270deg, rgba(6, 48, 96, 0.33) 0%, rgba(6, 48, 96, 0.00) 100%);
+    }
+    header .auca-gishushu {
+        display: block;
+    }
+    .auca-logo {
+        width: 20rem;
+    }
+}

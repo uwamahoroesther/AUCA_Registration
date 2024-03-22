@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+/* ---------------------- */
+
+:root {
+    --primary-clr: #0a4d98;
+    --primary-clr-alt: #0a4d98b3;
+    --gray-clr: #67819e;
+    --blue-clr: #063060;
+    --blue-clr-alt: #0630609c;
+    --border-clr: #8a9ba6;
+    --white-clr: #ffff;
+    --dark-clr: #001f33;
+    --green-clr: #58a55c;
+    --green-clr-alt: #58a55cc7;
+    --red-clr: #d95240;
+    --red-clr-alt: #d951409e;
+    --gold-clr: #a97f16;
+    --gold-clr-alt: #a98016b8;
+    --txt-primary: var(--primary-clr);
+    --txt-secondary: var(--dark-clr);
+    --txt-succes: var(--green-clr);
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(--dark-clr);
+    /*border: 1px dotted tomato; */
+}
+.logoutLogo {
+    cursor: pointer;
+    width: 18px;
+}
+.logoutLogo:hover {
+    width: 19px;
+}
+ul,
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+main {
+    margin: 1rem;
+}
+.card-c {
+    margin-top: 1rem;
+    border-color: #8a9ba6;
+}
+.discipline .info-title {
+    font-size: .8rem;
+}
+.discipline .info-value {
+    font-size: .8rem;
+}
+.loggedin-user .info-title {
+    font-size: .8rem;
+}
+.loggedin-user .info-value {
+    font-size: .8rem;
+}
+.card-header {
+    padding: .5rem 0 0 .5rem;
+    border-bottom-color: var(--border-clr);
+    background-color: var(--white-clr);
+}
+.txt-prmry {
+    color: var(--txt-primary);
+}
+.txt-scndry {
+    color: var(--txt-secondary);
+}
+.txt-success {
+    color: var(--txt-succes);
+}
+.btn-dngr {
+    background-color: var(--red-clr-alt);
+}
+.btn-dngr:hover {
+    background-color: var(--red-clr);
+}
+.success-clr {
+    background-color: var(--green-clr-alt);
+}
+.success-clr:hover {
+    background-color: var(--green-clr);
+}
+.gold-clr {
+    background-color: var(--gold-clr-alt);
+}
+.gold-clr:hover {
+    background-color: var(--gold-clr);
+}
+.blue-clr {
+    background-color: var(--blue-clr-alt);
+}
+.blue-clr:hover {
+    background-color: var(--blue-clr);
+}
+.primary-clr {
+    background-color: var(--primary-clr-alt);
+}
+.primary-clr:hover {
+    background-color: var(--primary-clr);
+}
+.bx-icon {
+    cursor: pointer;
+    font-size: 22px;
+}
+.btn-txt {
+    font-size: .8rem;
+}
+.in-form-btn {
+    font-size: .9rem;
+}
+.portal-title {
+    font-size: 1rem;
+}
+.bg-gray {
+    background-color: #F4F6F7;
+}
+.bg-gray-border {
+    border-color: #F4F6F7;
+}
+.flex-center {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+@media screen and (min-width: 600px) {
+    .flex-center {
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: center;
+    }
+}
+/* ---------------- */
+.student-info-card {
+    border-color: #E5EAEC;
+    background-color: #F4F6F7;
+}
+.info-title {
+    font-size: 1rem;
+    font-weight: 400;
+}
+.info-value {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-top: 1rem;
+}
+
+/* ------------------- */
+.all-fields-container {
+    position: relative;
+    padding: 5px;
+    padding-top: 20px;
+    border-radius: 5px 5px 0px 0px;
+    border: 1px solid #E8ECEF;
+}
+
+.field-title {
+    position: absolute;
+    background-color: var(--white-clr);
+    top: -12px;
+    left: 10px;
+}
+
+/* ----------------- */
+.card-header-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card-header-container .right-search-student {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-right: 10px;
+}
+
+/* ---------------- */
+.input-label {
+    font-size: .9rem;
+}
+.form-control {
+    font-size: .9rem;
+    color: var(--dark-clr);
+}
+
+/* ---------------- */
+.info-txt {
+    font-size: .8rem;
+    color: var(--dark-clr);
+}
+
+/* --------------- */
+.navigation {
+    border-radius: 0.3125rem;
+    border: 1px solid #e8ecef;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.navigation-title {
+    color: #284290;
+    font-size: .9rem;
+    font-weight: 300;
+    text-decoration: none;
+}
+.navigation-title:hover {
+    text-decoration: underline;
+}
+
+/* --------------- */
+.table-primary {
+    background: var(--primary-clr) !important;
+}
+#table-head-title {
+    font-size: 1rem;
+}
+
+/* -------- */
+.right-panel_title {
+    color: #284290;
+    font-size: 1rem;
+    font-weight: 400;
+}
+/* -------- */
+
+/* --------------- */
+footer {
+    /* position: absolute;
+    left: 50%;
+    bottom: 0%;
+    transform: translate(-50%, -50%); */
+    text-align: center;
+    color: var(--gray-clr);
+    font-size: .8rem;
+    margin-bottom: 1rem;
+}
+
+/* --------------- */
+.pagerPadding a {
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+}
